@@ -9,6 +9,5 @@ https://ericapiano.github.io/triviaGame/
 
 * Javascript
 * JQuery
-* Giphy API
 * Google Fonts
 
