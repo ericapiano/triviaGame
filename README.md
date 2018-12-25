@@ -10,4 +10,4 @@ https://ericapiano.github.io/triviaGame/
 * Javascript
 * JQuery
 * Google Fonts
-
+* Bootstrap
